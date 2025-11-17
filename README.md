@@ -1,2 +1,2 @@
-# InteriorX-Project
-Develop by Divya Modak
+# Interior Designing Website
+Developed by Divya Modak
